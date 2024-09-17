@@ -1,5 +1,5 @@
 .DS_Store
 /build
 /dist
-/snake.egg-info
+/sm_snake.egg-info
 setup.py
